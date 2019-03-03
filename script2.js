@@ -50,7 +50,7 @@
 //   color: 'red',
 //   name: 'car',
 // };
-// // i console log for take the value of car 
+// // i console log to take the value of myObject 
 // console.log(typeof myObject);
 // function newFunction(type,color,name) {
 //   return(type+color+name);
@@ -150,7 +150,7 @@
 // else{
 //   console.log(false);
 // }
-// // 16.2) no you cannot changing bacause 01 don't have same value that o3
+// // 16.2) no you cannot changing because 01 don't have same value that o3
 // // and order is not a matter with(o2 or o3)
 // // 17
 // let bar=42;
